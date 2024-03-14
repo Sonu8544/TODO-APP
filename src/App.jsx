@@ -1,10 +1,13 @@
 import './App.css'
+import TodoBox from './component/TodoBox'
 
 function App() {
 
   return (
     <>
-      <h1>Lorem, ipsum dolor.</h1>
+     <div className='backgroundColor'>
+      <TodoBox />
+     </div>
     </>
   )
 }

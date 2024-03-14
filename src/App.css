@@ -3,3 +3,10 @@
   padding: 0;
   box-sizing: border-box;
 }
+
+.backgroundColor {
+  background-color: rgb(205, 203, 203);
+  width: 100%;
+  height: 100vh;
+  padding-top: 100px;
+}
